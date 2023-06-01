@@ -6,7 +6,7 @@ namespace Focite\Auth;
 
 use Illuminate\Support\ServiceProvider;
 
-class BuilderServiceProvider extends ServiceProvider
+class AuthServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any package services.
