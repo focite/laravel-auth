@@ -2,7 +2,8 @@
     "name": "focite/laravel-auth",
     "license": "Apache-2.0",
     "require": {
-        "php": "^8.1"
+        "php": "^8.1",
+        "firebase/php-jwt": "^6.4"
     },
     "autoload": {
         "psr-4": {
